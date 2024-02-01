@@ -51,7 +51,6 @@ body{
 	
 }
 
-
 .botao__secundario{
 	background-color: transparent;
 	border: 2px solid var(--branco-principal);
@@ -154,7 +153,6 @@ body{
 }
 
 .rodape__logo{
-   
    text-decoration: none;
 }
 
